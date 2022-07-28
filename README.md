@@ -1,2 +1,2 @@
 # hamburger-menu
-menu
+Hamburger menu in css.
